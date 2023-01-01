@@ -1,0 +1,15 @@
+C:\Users\CompuStore\Desktop\Universidad\Visual Studio\COMPOSITE\bin\Debug\net6.0\COMPOSITE.exe
+C:\Users\CompuStore\Desktop\Universidad\Visual Studio\COMPOSITE\bin\Debug\net6.0\COMPOSITE.deps.json
+C:\Users\CompuStore\Desktop\Universidad\Visual Studio\COMPOSITE\bin\Debug\net6.0\COMPOSITE.runtimeconfig.json
+C:\Users\CompuStore\Desktop\Universidad\Visual Studio\COMPOSITE\bin\Debug\net6.0\COMPOSITE.dll
+C:\Users\CompuStore\Desktop\Universidad\Visual Studio\COMPOSITE\bin\Debug\net6.0\COMPOSITE.pdb
+C:\Users\CompuStore\Desktop\Universidad\Visual Studio\COMPOSITE\obj\Debug\net6.0\COMPOSITE.csproj.AssemblyReference.cache
+C:\Users\CompuStore\Desktop\Universidad\Visual Studio\COMPOSITE\obj\Debug\net6.0\COMPOSITE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CompuStore\Desktop\Universidad\Visual Studio\COMPOSITE\obj\Debug\net6.0\COMPOSITE.AssemblyInfoInputs.cache
+C:\Users\CompuStore\Desktop\Universidad\Visual Studio\COMPOSITE\obj\Debug\net6.0\COMPOSITE.AssemblyInfo.cs
+C:\Users\CompuStore\Desktop\Universidad\Visual Studio\COMPOSITE\obj\Debug\net6.0\COMPOSITE.csproj.CoreCompileInputs.cache
+C:\Users\CompuStore\Desktop\Universidad\Visual Studio\COMPOSITE\obj\Debug\net6.0\COMPOSITE.dll
+C:\Users\CompuStore\Desktop\Universidad\Visual Studio\COMPOSITE\obj\Debug\net6.0\refint\COMPOSITE.dll
+C:\Users\CompuStore\Desktop\Universidad\Visual Studio\COMPOSITE\obj\Debug\net6.0\COMPOSITE.pdb
+C:\Users\CompuStore\Desktop\Universidad\Visual Studio\COMPOSITE\obj\Debug\net6.0\COMPOSITE.genruntimeconfig.cache
+C:\Users\CompuStore\Desktop\Universidad\Visual Studio\COMPOSITE\obj\Debug\net6.0\ref\COMPOSITE.dll
